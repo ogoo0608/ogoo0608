@@ -2,7 +2,7 @@
 #### I'm attending Gachon University.
 I'm studying to become a game developer.
 
-Skills: JAVA / C++ / Python / html / css
+Skills: JAVA / C / C++ / Python / html / css 
 
 
 
