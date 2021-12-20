@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kim Jung Jun
 #### I'm attending Gachon University now.
 
-I'm studying to become a # game developer. 
+# studying to become a game developer. 
 
 
 Skills: **JAVA / C / C++ / Python / html / css**
