@@ -4,7 +4,7 @@
 I'm studying to become a game developer. 
 
 
-Skills: JAVA / C / C++ / Python / html / css 
+Skills: **JAVA / C / C++ / Python / html / css**
 
 
 
