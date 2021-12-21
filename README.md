@@ -12,5 +12,3 @@ Skills: **JAVA / C / C++ / Python / html / css**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogoo0608&show_icons=true)  
 
-## Rounded <a id="rounded">
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Rounded&fontAlignY=50&fontSize=40&height=200)
