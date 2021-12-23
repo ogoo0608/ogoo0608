@@ -15,3 +15,4 @@
 
 
 <h3 align='center'> <font color = 'yellow'> :fire: 천천히 , 열심히 :fire: </font> </h3>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
