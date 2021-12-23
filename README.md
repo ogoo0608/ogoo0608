@@ -14,4 +14,4 @@
 <br>
 
 
-<h3 align='center'> __천천히__ </h3>
+<h3 align='center'> <font color = 'yellow'> 천천히 열심히 </font> </h3>
