@@ -39,3 +39,16 @@ hobby = "공놀이"
 # print(name + "는" + str(age) + "이며, " + hobby + "을 아주 좋아해요")
 print(name, "는", age, "살이며," , hobby, "을 아주 좋아해요")
 print(name + "는 어른일까요?" + str(is_adult) )
+
+# 주석
+
+# 혹은
+
+'''이렇게 
+하면
+여러 문장이
+주석 처리 됩니다
+'''
+
+#혹은 Ctrl + /
+#하면 전부 주석 처리가 됩니다
