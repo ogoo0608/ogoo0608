@@ -1,6 +1,9 @@
-from turtle import RawPen
+## 1. 변수 선언과 출력
+
+<br>
 
 
+```py
 num1 = 10
 num2 = 20
 
@@ -8,16 +11,29 @@ print (num1, num2)
 print('num1 =', num1, 'num2 =', num2)
 print('num1=', num1,' , ' 'num2=', num2, sep='')
 print('num1=%d, num2=%d' % (num1,num2))
+```
 
-# 2. 입력과 형 변환
+<br>
 
+
+## 2. 입력과 형 변환
+
+<br>
+
+```py
 num3 = int(input('num3=>'))
 num4 = eval(input('num4=>'))
 
 print('num3 + num4 =', num3+num4)
+```
 
-# 3. 연산자와 자료형
+<br>
 
+## 3. 연산자와 자료형
+
+<br>
+
+```py
 a = 100, 200, 300, 400
 print(a)
 print(a[3])
@@ -31,9 +47,15 @@ print(type((1,2,3,4))) # Tuple => 변경 불가능
 print(type({10,20,30})) # Set
 print(type({'a':10, 'b':20, 'c':30})) # Map (dict)
 print(type(10>50)) # boolean 
+```
 
-# 4. if
+<br>
 
+## 4. if
+
+<br>
+
+```py
 _uname = 'hong'
 _passwd = '1234'
 
@@ -44,9 +66,15 @@ if((uname == _uname) and (passwd == _passwd)) :
     print('>> 로그인 성공!!')
 else :
     print('>> 로그인 실패!!')
-    
-# 5. for 
+```
 
+<br>
+    
+## 5. for 
+
+<br>
+
+```py
 for i in range(3):
     print('Hello World')
     
@@ -61,28 +89,23 @@ for i in [10,20,30]:
     
 for i in range(1,11,1):
     print(i, end=' ')
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-# 1. 변수 선언과 출력
+```
 
-num1 = 10
-num2 = 20
+<br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
-print (num1, num2)
-print('num1 =', num1, 'num2 =', num2)
-print('num1=', num1,' , ' 'num2=', num2, sep='')
-print('num1=%d, num2=%d' % (num1,num2))
 
 # %d: 10진수(정수형)
 
