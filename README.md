@@ -1,6 +1,6 @@
 <p>
   👋&nbsp; Hi there! I'm <b>game client programmer</b>🚀<br/>
-  I am a student majoring in computer engineering at Gachon University, and studying Unreal Engine intensively.<br/>
+  I am a student majoring in computer engineering at Gachon University, <br> and studying Unreal Engine intensively.<br/>
   <br/>
   I enjoy cooking. 🍳 <br/>
   I want to make a game that everyone can enjoy. ✨ <br/><br/>
