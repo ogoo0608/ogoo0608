@@ -1,9 +1,3 @@
-
-### 🤞 Nice way to meet me
-<p>
-  <a href="malito:ogoo0608@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ogoo0608@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
 <p>
   👋&nbsp; Hi there! I'm <b>An aspiring game client programmer</b>🚀<br/>
   I'm a computer engineering student at Gachon University, and I'm making games using Unreal Engine.<br/>
