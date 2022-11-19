@@ -13,4 +13,4 @@ I'm focusing on Game Client.
   
   <br>
   
-<h3 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogoo0608&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogoo0608&show_icons=true&theme=radical)
