@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=JungJun%20Github%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20%20%20&descAlignY=51&descAlign=80)
+
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
