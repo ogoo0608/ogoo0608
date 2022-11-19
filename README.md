@@ -13,3 +13,4 @@ I'm focusing on Game Client.
   
   <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogoo0608&show_icons=true&theme=radical)
