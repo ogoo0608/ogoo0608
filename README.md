@@ -5,10 +5,9 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Game Client Programmer</b>🚀<br/>
+  👋&nbsp; Hi there! I'm <b>An aspiring game client programmer</b>🚀<br/>
   I'm a computer engineering student at Gachon University, and I'm making games using Unreal Engine.<br/>
   <br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
   I enjoy cooking. 🍳 <br/>
   I want to make a game that everyone can enjoy. ✨ <br/><br/>
 </p>
