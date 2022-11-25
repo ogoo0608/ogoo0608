@@ -1,5 +1,4 @@
-<p>
-  # Hi there! I'm <b>game client programmer</b>🚀<br/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hi there! I'm <b>game client programmer</b>🚀<br/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
   
   I am a student majoring in computer engineering at Gachon University, <br> and studying Unreal Engine intensively.<br/>
   <br/>
