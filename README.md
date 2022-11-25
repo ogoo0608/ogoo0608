@@ -21,6 +21,10 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ogoo0608&&count_private=true&show_icons=true&theme=light&line_height=27&v=5" alt="ogoo0608's GitHub Stats" />
+
+<br>
+
 <table>
   <tr>
       <td><a href="https://github.com/ogoo0608"><img src="https://img.shields.io/github/followers/ogoo0608.svg?label=GitHub&style=social" alt="GitHub"></a></td>
