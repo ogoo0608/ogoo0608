@@ -1,4 +1,4 @@
-# Hi there! I'm <b>game client programmer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I'm <b> jungjun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
   
   I am a student majoring in computer engineering at Gachon University, <br> and studying Unreal Engine intensively.<br/>
   <br/>
