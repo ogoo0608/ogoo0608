@@ -19,3 +19,16 @@
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=black"/>
 </p>
 
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+
+  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+</p>
+
+<!--   ![snake svg](https://github.com/ogoo0608/ogoo0608/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<div align="center">
