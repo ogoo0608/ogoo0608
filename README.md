@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=black"/>
 </p>
 
+<table>
+  <tr>
+      <td><a href="https://github.com/ogoo0608"><img src="https://img.shields.io/github/followers/ashwanisng.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+      <td><a href="https://www.instagram.com/in/game.client"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
+      <td><a href="mailto:ogoo0608@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
   
