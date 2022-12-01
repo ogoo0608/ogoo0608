@@ -1,6 +1,6 @@
 # Hello, I'm <b> jungjun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
   
-  I am a student majoring in computer engineering at Gachon University, <br> and studying Unreal Engine intensively.<br/>
+  I am a student majoring in computer engineering at Gachon University, <br> and studying Unreal Engine.<br/>
   <br/>
   I enjoy cooking. 🍳 <br/>
   I want to make a game that everyone can enjoy. ✨ <br/><br/>
